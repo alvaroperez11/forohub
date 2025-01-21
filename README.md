@@ -26,7 +26,7 @@ La API puede devolver los siguientes errores y excepciones:
 
 -*401 Unauthorized*: El usuario no esta autorizado para acceder al recurso.
 
--*500 Internal Server Error*: Ocurrió un error interno con ek servidor.
+-*500 Internal Server Error*: Ocurrió un error interno con el servidor.
 
 
 ## Licencia:
@@ -37,6 +37,6 @@ La API puede devolver los siguientes errores y excepciones:
 
 Si tienes alguna pregunta, sugerencia o necesitas ayuda, no dudes en contactarme:
 
-*Correo electronico* [alvaro_armando@hotmail.com]
+*Correo electronico* [alvaro_armando@hotmail.es]
 
 *LinkedIn* [https://www.linkedin.com/in/alvaro-perez-551663100/]
